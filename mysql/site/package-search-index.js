@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.kakaocloud.sdk.mysql"},{"l":"com.kakaocloud.sdk.mysql.api"},{"l":"com.kakaocloud.sdk.mysql.model"}];updateSearchResults();

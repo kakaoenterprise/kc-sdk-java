@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.kakaocloud.sdk.bcs"},{"l":"com.kakaocloud.sdk.bcs.api"},{"l":"com.kakaocloud.sdk.bcs.model"}];updateSearchResults();

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.kakaocloud.sdk.vpc"},{"l":"com.kakaocloud.sdk.vpc.api"},{"l":"com.kakaocloud.sdk.vpc.model"}];updateSearchResults();

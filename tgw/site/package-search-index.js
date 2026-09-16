@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.kakaocloud.sdk.tgw"},{"l":"com.kakaocloud.sdk.tgw.api"},{"l":"com.kakaocloud.sdk.tgw.model"}];updateSearchResults();
